@@ -8,7 +8,8 @@ Add elastic beanstalk configurations :
 
 ## Steps 1 : 
 This configures the nginx server to answer to the letsencrypt challenge + request a new certificate.
-Do this just the first time.
+
+Do this just the first time !!
 
 Place the one/.ebextensions folder in the root of the zip you are deploying.
 
